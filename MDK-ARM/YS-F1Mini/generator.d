@@ -1,0 +1,12 @@
+.\ys-f1mini\generator.o: ..\Src\nmea_decode\src\generator.c
+.\ys-f1mini\generator.o: ..\Inc\nmea_decode\include\nmea/gmath.h
+.\ys-f1mini\generator.o: ..\Inc\nmea_decode\include\nmea/info.h
+.\ys-f1mini\generator.o: ..\Inc\nmea_decode\include\nmea/time.h
+.\ys-f1mini\generator.o: ..\Inc\nmea_decode\include\nmea/config.h
+.\ys-f1mini\generator.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\ys-f1mini\generator.o: ..\Inc\nmea_decode\include\nmea/generate.h
+.\ys-f1mini\generator.o: ..\Inc\nmea_decode\include\nmea/sentence.h
+.\ys-f1mini\generator.o: ..\Inc\nmea_decode\include\nmea/generator.h
+.\ys-f1mini\generator.o: ..\Inc\nmea_decode\include\nmea/context.h
+.\ys-f1mini\generator.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\ys-f1mini\generator.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
